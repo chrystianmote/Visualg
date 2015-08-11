@@ -1,0 +1,21 @@
+faça um programa que leia uma matriz 5x5 e calcule sua matriz transposta e defina se a matriz é simetrica ou não.
+
+duas varia m e mt (transposta)
+
+
+procedimento da matriz principal
+procedimento da mtriz para transporta-la
+função que retorna lógico.
+
+
+
+
+faça um programa que apresente continuamente um seguinte menu para o usuário:
+
+1- Ler matriz
+2-Somar elementos(funcao obtersomaMatriz(limit:real):real
+.
+.
+.
+fimfuncão
+3-sair

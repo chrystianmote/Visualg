@@ -1,0 +1,2 @@
+Faça um algoritmo que calcule o desvio padrao de 10 numeros lidos..
+Desv Pad(excel)
